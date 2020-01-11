@@ -14,6 +14,7 @@
 		83A5EBC32307CD7300224714 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83A5EBC12307CD7300224714 /* LaunchScreen.storyboard */; };
 		83A5EBCE2307CD7300224714 /* ARRAYS_DISTRICTSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A5EBCD2307CD7300224714 /* ARRAYS_DISTRICTSTests.swift */; };
 		83A5EBD92307CD7300224714 /* ARRAYS_DISTRICTSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A5EBD82307CD7300224714 /* ARRAYS_DISTRICTSUITests.swift */; };
+		83A5EBE72307CD9600224714 /* Districts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A5EBE62307CD9600224714 /* Districts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		83A5EBD42307CD7300224714 /* ARRAYS DISTRICTSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ARRAYS DISTRICTSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83A5EBD82307CD7300224714 /* ARRAYS_DISTRICTSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARRAYS_DISTRICTSUITests.swift; sourceTree = "<group>"; };
 		83A5EBDA2307CD7300224714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83A5EBE62307CD9600224714 /* Districts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Districts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				83A5EBBF2307CD7300224714 /* Assets.xcassets */,
 				83A5EBC12307CD7300224714 /* LaunchScreen.storyboard */,
 				83A5EBC42307CD7300224714 /* Info.plist */,
+				83A5EBE62307CD9600224714 /* Districts.swift */,
 			);
 			path = "ARRAYS DISTRICTS";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				83A5EBBB2307CD7300224714 /* ViewController.swift in Sources */,
 				83A5EBB92307CD7300224714 /* AppDelegate.swift in Sources */,
+				83A5EBE72307CD9600224714 /* Districts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
